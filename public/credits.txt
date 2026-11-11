@@ -1,0 +1,38 @@
+МЕДИАМАТЕРИАЛЫ
+
+Фотографии
+Лицензия: Unsplash License — https://unsplash.com/license
+Изображения оптимизированы и представлены в двух размерах WebP.
+
+hero-poster.webp, hero-poster-small.webp
+Jessica Newendyke — https://unsplash.com/photos/eEYAbuxP1gA
+
+airport.webp, airport-small.webp
+CHUTTERSNAP — https://unsplash.com/photos/xDjcU1Pglro
+
+passport.webp, passport-small.webp
+CardMapr.nl — https://unsplash.com/photos/LVA3S6isNYQ
+
+city.webp, city-small.webp
+Jenny Kim — https://unsplash.com/photos/QnQmw0JfQr8
+
+hotel.webp, hotel-small.webp
+Tim Photoguy — https://unsplash.com/photos/FPS7a7XQZ0w
+
+map.webp, map-small.webp
+Hans — https://unsplash.com/photos/48BvPxBwQPs
+
+Видео и графика
+Схемы и типографическая анимация подготовлены для сайта. Видео без звуковой дорожки; содержание доступно в текстовой версии.
+
+Аудио
+Пересказ материала реферата. Озвучивание: Microsoft Irina Desktop, ru-RU, Windows Speech API. Синтетическая речь, не запись голоса автора реферата.
+
+Шрифты
+Roboto-VariableFont_wdth,wght.ttf — основной текст.
+Anticva-Regular.otf — заголовки.
+Файлы шрифтов предоставлены владельцем проекта. Лицензии конкретных файлов отдельно не проверялись.
+
+Содержание
+Основа: реферат «Блокчейн и туризм», Лунев Н. В., МГТУ «СТАНКИН», 2026.
+Исследования и ссылки приведены в разделе «Источники».
